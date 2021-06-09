@@ -1,16 +1,21 @@
+Here list some courses that teach reinforcement learning.
 
-| Code              | University                    | Lecture Name                                       | Semester & Link                                         |
-|                   | AAAI-10 Tutorial              | Reinforcement Learning Algorithms for MDPs         | [[http://old.sztaki.hu/~szcsaba/research/AAAI10_Tutorial/][July 11, 2010]]                                           |
-|                   | Github                        | Intro to Reinforcement Learning                    | [[https://github.com/zhoubolei/introRL][zhoubolei/introRL]]                                       |
-|                   | NTU                           | Machine Learning and having it Deep and Structured | [[https://speech.ee.ntu.edu.tw/~hylee/mlds/2018-spring.html][Spring 2018(Deep Reinforcement Learning)]]                |
-|                   | SJTU                          | Multi-Agent Reinforcement Learning Tutorial        | [[http://wnzhang.net/tutorials/marl2018/index.html][Oct. 14-15, 2018]]                                        |
-|                   | UCL                           | Reinforcement Learning                             | [[https://www.davidsilver.uk/teaching/][Advanced Topics 2015]]                                    |
-| 10703             | CMU                           | Deep Reinforcement Learning and Control            | [[https://www.cs.cmu.edu/~katef/DeepRLFall2018/index.html][Fall 2018]]                                               |
-| CMPSCI 687        | University of Massachusetts   | Reinforcement Learning                             | [[https://people.cs.umass.edu/~barto/courses/cs687/][Spring 2006]]                                             |
-| CMPSCI 689        | University of Massachusetts   | Machine Learning                                   | [[http://www-edlab.cs.umass.edu/cs689/2016-outline.htm][Fall 2016(Lecture 17-25)]]                                |
-| CMPUT 499/609     | University of Alberta         | Reinforcement Learning in Artificial Intelligence  | [[http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/RLAIcourse/RLAIcourse2006.html][Spring 2006]]                                             |
-| CS234             | Stanford                      | Reinforcement Learning                             | [[https://web.stanford.edu/class/cs234/CS234Win2020/index.html][Winter 2020]]                                             |
-| CS285, CS294-112  | UC Berkeley                   | Deep Reinforcement Learning                        | [[http://rail.eecs.berkeley.edu/deeprlcourse/][Fall 2020]], [[http://rail.eecs.berkeley.edu/deeprlcourse-fa19/][Fall 2019]], [[http://rail.eecs.berkeley.edu/deeprlcourse-fa18/][Fall 2018]], [[http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html][Fall 2017]], [[http://rail.eecs.berkeley.edu/deeprlcoursesp17/index.html][Spring 2017]] |
-| CS394R            | University of Texas at Austin | Reinforcement Learning: Theory and Practice        | [[https://www.cs.utexas.edu/~pstone/Courses/394Rfall19/][Fall 2019]]                                               |
-| CS885             | Waterloo                      | Reinforcement Learning                             | [[https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring20/][Spring 2020]]                                             |
-| CSE4/510          | Buffalo                       | Reinforcement Learning                             | [[https://cse.buffalo.edu/~avereshc/rl_fall19.html][Fall 2019]]                                               |
+| Code             | University                    | Lecture Name                                      | Semester & Link                                         |
+|                  | AAAI-10 Tutorial              | Reinforcement Learning Algorithms for MDPs        | [[http://old.sztaki.hu/~szcsaba/research/AAAI10_Tutorial/][July 11, 2010]]                                           |
+|                  | Github                        | Intro to Reinforcement Learning                   | [[https://github.com/zhoubolei/introRL][zhoubolei/introRL]]                                       |
+|                  | SJTU                          | Multi-Agent Reinforcement Learning Tutorial       | [[http://wnzhang.net/tutorials/marl2018/index.html][Oct. 14-15, 2018]]                                        |
+|                  | UCL                           | Reinforcement Learning                            | [[https://www.davidsilver.uk/teaching/][Advanced Topics 2015]]                                    |
+| 10703            | CMU                           | Deep Reinforcement Learning and Control           | [[https://www.cs.cmu.edu/~katef/DeepRLFall2018/index.html][Fall 2018]]                                               |
+| CMPSCI 687       | University of Massachusetts   | Reinforcement Learning                            | [[https://people.cs.umass.edu/~barto/courses/cs687/][Spring 2006]]                                             |
+| CMPUT 499/609    | University of Alberta         | Reinforcement Learning in Artificial Intelligence | [[http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/RLAIcourse/RLAIcourse2006.html][Spring 2006]]                                             |
+| CS234            | Stanford                      | Reinforcement Learning                            | [[https://web.stanford.edu/class/cs234/CS234Win2020/index.html][Winter 2020]]                                             |
+| CS285, CS294-112 | UC Berkeley                   | Deep Reinforcement Learning                       | [[http://rail.eecs.berkeley.edu/deeprlcourse/][Fall 2020]], [[http://rail.eecs.berkeley.edu/deeprlcourse-fa19/][Fall 2019]], [[http://rail.eecs.berkeley.edu/deeprlcourse-fa18/][Fall 2018]], [[http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html][Fall 2017]], [[http://rail.eecs.berkeley.edu/deeprlcoursesp17/index.html][Spring 2017]] |
+| CS394R           | University of Texas at Austin | Reinforcement Learning: Theory and Practice       | [[https://www.cs.utexas.edu/~pstone/Courses/394Rfall19/][Fall 2019]]                                               |
+| CS885            | Waterloo                      | Reinforcement Learning                            | [[https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring20/][Spring 2020]]                                             |
+| CSE4/510         | Buffalo                       | Reinforcement Learning                            | [[https://cse.buffalo.edu/~avereshc/rl_fall19.html][Fall 2019]]                                               |
+
+Here list some courses that involve reinforcement learning.
+
+| Code       | University                  | Lecture Name                                       | Semester & Link                          |
+|            | NTU                         | Machine Learning and having it Deep and Structured | [[https://speech.ee.ntu.edu.tw/~hylee/mlds/2018-spring.html][Spring 2018(Deep Reinforcement Learning)]] |
+| CMPSCI 689 | University of Massachusetts | Machine Learning                                   | [[http://www-edlab.cs.umass.edu/cs689/2016-outline.htm][Fall 2016(Lecture 17-25)]]                 |
