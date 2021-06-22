@@ -8,11 +8,18 @@ Here list some courses that teach reinforcement learning.
 | 10703            | CMU                           | Deep Reinforcement Learning and Control           | [[https://www.cs.cmu.edu/~katef/DeepRLFall2018/index.html][Fall 2018]]                                               |
 | CMPSCI 687       | University of Massachusetts   | Reinforcement Learning                            | [[https://people.cs.umass.edu/~barto/courses/cs687/][Spring 2006]]                                             |
 | CMPUT 499/609    | University of Alberta         | Reinforcement Learning in Artificial Intelligence | [[http://incompleteideas.net/rlai.cs.ualberta.ca/RLAI/RLAIcourse/RLAIcourse2006.html][Spring 2006]]                                             |
+| COMS E6998.001   | Columbia University           | Bandits and Reinforcement Learning                | [[http://alekhagarwal.net/bandits_and_rl/][Fall 2017]]                                               |
 | CS234            | Stanford                      | Reinforcement Learning                            | [[https://web.stanford.edu/class/cs234/CS234Win2020/index.html][Winter 2020]]                                             |
 | CS285, CS294-112 | UC Berkeley                   | Deep Reinforcement Learning                       | [[http://rail.eecs.berkeley.edu/deeprlcourse/][Fall 2020]], [[http://rail.eecs.berkeley.edu/deeprlcourse-fa19/][Fall 2019]], [[http://rail.eecs.berkeley.edu/deeprlcourse-fa18/][Fall 2018]], [[http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html][Fall 2017]], [[http://rail.eecs.berkeley.edu/deeprlcoursesp17/index.html][Spring 2017]] |
 | CS394R           | University of Texas at Austin | Reinforcement Learning: Theory and Practice       | [[https://www.cs.utexas.edu/~pstone/Courses/394Rfall19/][Fall 2019]]                                               |
+| CS498            | University of Illinois        | Reinforcement Learning                            | [[https://nanjiang.cs.illinois.edu/cs498/][Spring 2021]]                                             |
+| CS542            | University of Illinois        | Statistical Reinforcement Learning                | [[https://nanjiang.cs.illinois.edu/cs598/][Fall 2020]]                                               |
+| CS8803           | Georgia Tech                  | Adaptive Control and Reinforcement Learning       | [[https://www.cc.gatech.edu/~bboots3/ACRL-Spring2019/][Spring 2019]]                                             |
 | CS885            | Waterloo                      | Reinforcement Learning                            | [[https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring20/][Spring 2020]]                                             |
 | CSE4/510         | Buffalo                       | Reinforcement Learning                            | [[https://cse.buffalo.edu/~avereshc/rl_fall19.html][Fall 2019]]                                               |
+| CSE599U/W        | University of Washington      | Reinforcement Learning                            | [[https://homes.cs.washington.edu/~bboots/RL-Fall2020/][Fall 2020]], [[https://homes.cs.washington.edu/~bboots/RL-Spring2020/][Spring 2020]]                                  |
+| CSE599m          | University of Washington      | Reinforcement Learning and Bandits                | [[https://courses.cs.washington.edu/courses/cse599m/19sp/][Spring 2019]]                                             |
+| IEOR 8100        | Columbia University           | Reinforcement Learning                            | [[https://ieor8100.github.io/rl/][Spring 2019]], [[https://ieor8100.github.io/rl/lectureSpring2018.html][Spring 2018]]                                |
 
 Here list some courses that involve reinforcement learning.
 
