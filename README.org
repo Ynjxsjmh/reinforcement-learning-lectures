@@ -1,6 +1,6 @@
 Here list some courses that teach reinforcement learning.
 
-| Code             | University                    | Lecture Name                                      | Semester & Link                                         |
+| Code             | Organization                  | Lecture Name                                      | Semester & Link                                         |
 |                  | AAAI-10 Tutorial              | Reinforcement Learning Algorithms for MDPs        | [[http://old.sztaki.hu/~szcsaba/research/AAAI10_Tutorial/][July 11, 2010]]                                           |
 |                  | Github                        | Intro to Reinforcement Learning                   | [[https://github.com/zhoubolei/introRL][zhoubolei/introRL]]                                       |
 |                  | SJTU                          | Multi-Agent Reinforcement Learning Tutorial       | [[http://wnzhang.net/tutorials/marl2018/index.html][Oct. 14-15, 2018]]                                        |
