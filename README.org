@@ -3,6 +3,7 @@ Here list some courses that teach reinforcement learning.
 | Code             | Organization                  | Lecture Name                                      | Semester & Link                                         |
 |                  | AAAI-10 Tutorial              | Reinforcement Learning Algorithms for MDPs        | [[http://old.sztaki.hu/~szcsaba/research/AAAI10_Tutorial/][July 11, 2010]]                                           |
 |                  | Github                        | Intro to Reinforcement Learning                   | [[https://github.com/zhoubolei/introRL][zhoubolei/introRL]]                                       |
+|                  | RLChina                       | Reinforcement Learning China Summer School        | [[http://rlchina.org/index.html][2021]], [[http://rlchina.org/2020.html][2020]]                                              |
 |                  | SJTU                          | Multi-Agent Reinforcement Learning Tutorial       | [[http://wnzhang.net/tutorials/marl2018/index.html][Oct. 14-15, 2018]]                                        |
 |                  | UCL                           | Reinforcement Learning                            | [[https://www.davidsilver.uk/teaching/][Advanced Topics 2015]]                                    |
 | 10703            | CMU                           | Deep Reinforcement Learning and Control           | [[https://www.cs.cmu.edu/~katef/DeepRLFall2018/index.html][Fall 2018]]                                               |
